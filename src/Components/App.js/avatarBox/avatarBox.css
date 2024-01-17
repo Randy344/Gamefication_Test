@@ -1,0 +1,11 @@
+.avatar-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 150px;
+    width: 150px;
+    right: 100;
+    border: 1px solid #ccc;
+    overflow: hidden;
+    position: absolute;
+  }
